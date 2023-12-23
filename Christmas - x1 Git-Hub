@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>A Cozy Christmas Family Message</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('christmas-tree-ideas-caitlin-wilson-katie-nixon-photography-1-64dfe5fd7f6ad - Copy.jpg'); /* Replace 'christmas-tree-ideas-caitlin-wilson-katie-nixon-photography-1-64dfe5fd7f6ad - Copy.jpg' with the URL or local path of your Christmas scene image */
+            background-size: cover;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black header */
+            color: white;
+            font-size: 24px;
+        }
+
+        .main-content {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white content area */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #555; /* Dark grey footer text */
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Wish You a Merry Christmas!</h1>
+    </header>
+
+    <div class="main-content">
+        <h2>Experience the Magic of Christmas!</h2>
+        <p>Step into this cozy Christmas scene filled with the warmth of decorations, a grand pine tree, and the joyous spirit of the season.</p>
+        <p>Feel the festive cheer and celebrate the most wonderful time of the year!</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 A Cozy Christmas Family Message - Created with love by [Debayan Das]</p>
+    </footer>
+</body>
+
+</html>
